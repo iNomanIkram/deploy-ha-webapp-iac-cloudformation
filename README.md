@@ -28,7 +28,7 @@ Infrastructure-as-code (IAC) that automates the process of creating a secured an
 11. Entire environment is fully virtualized in a cloud platform that can be taken down and brought back up within a short period of time. The process of creating and starting all the services, spinning up instances are automated via scripts in this repo.
 
 **Detailed Infrastructure Architecture**
-![GitHub Logo](https://github.com/iNomanIkram/deploy-ha-webapp-iac-cloudformation/blob/master/Diagram/Project.png)
+![GitHub Logo](https://github.com/iNomanIkram/deploy-ha-webapp-iac-cloudformation/blob/main/Diagram/Project.png)
 
 **Prerequisites**
 1. Make sure you have all setup an AWS account.
